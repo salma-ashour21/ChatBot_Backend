@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+supabase
+groq
+google-generativeai
+python-dotenv
+httpx
+gTTS
